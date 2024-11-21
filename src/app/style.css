@@ -1,0 +1,9 @@
+.custom-button {
+    background-color: var(--navbar-bg-color);
+    color: var(--navbar-text-color);
+    border: 1px solid var(--navbar-text-color);
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    cursor: pointer;
+  }
